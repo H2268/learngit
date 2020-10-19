@@ -1,4 +1,4 @@
 this is a learn file.
 change
-Create a new branch is quice & simple.
-
+<<<<<<< HEAD
+Create a new branch is quice and simple.
