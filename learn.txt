@@ -1,6 +1,3 @@
 this is a learn file.
 change
-<<<<<<< HEAD
-Create a new branch is quice and simple.
-new change
-222
+
