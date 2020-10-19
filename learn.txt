@@ -1,2 +1,6 @@
 this is a learn file.
 change
+<<<<<<< HEAD
+=======
+<<<<<<
+>>>>>>> 367ae3a... bug fix 102
